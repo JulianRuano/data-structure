@@ -1,0 +1,8 @@
+insertar 9
+insertar 8
+insertar 10
+insertar 11
+preorden
+insertar 12
+preorden
+salir
